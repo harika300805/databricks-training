@@ -8,6 +8,7 @@ This repository stores my daily Databricks training progress. On Day 1, I focuse
 - SELECT statements
 - WHERE filtering
 - JOIN operations
+- DATE functions
 - Aggregations and GROUP BY
 
 ## Notes
