@@ -26,54 +26,15 @@ Building a strong SQL foundation with in-depth coverage of essential query patte
 #### **Core Topics Covered:**
 
 1. **Basic Queries**
-   - SELECT statements and column selection
-   - Filtering with WHERE clauses
-   - LIMIT and OFFSET operations
-
 2. **String Matching Queries**
-   - Pattern matching with LIKE operator
-   - Regular expression searches
-   - Text transformations and manipulations
-
 3. **Date Queries**
-   - Date/timestamp extraction and formatting
-   - Date arithmetic and interval operations
-   - Temporal filtering and comparisons
-
 4. **Aggregate Queries**
-   - COUNT, SUM, AVG, MIN, MAX functions
-   - Statistical analysis and calculations
-   - NULL handling in aggregations
-
 5. **GROUP BY Queries**
-   - Data grouping and categorization
-   - Multi-column grouping
-   - Hierarchical aggregations
-
 6. **HAVING Clauses**
-   - Post-aggregation filtering
-   - Group-level conditional logic
-   - Combining HAVING with GROUP BY
-
 7. **ORDER BY Queries**
-   - Sorting single and multiple columns
-   - Ascending and descending order
-   - Advanced sorting with expressions
-
 8. **JOIN Queries**
-   - INNER, LEFT, RIGHT, FULL OUTER joins
-   - CROSS joins and self-joins
-   - Multi-table data correlation
-
 9. **Nested and Correlated Queries**
-   - Subqueries in SELECT, FROM, and WHERE clauses
-   - Correlated subqueries and dependencies
-   - Query optimization strategies
-
 10. **Combined Queries**
-    - UNION and UNION ALL operations
-    - Set operations and data consolidation
-    - Complex query combinations
 
 ---
 
