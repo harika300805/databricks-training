@@ -1,5 +1,3 @@
-# databricks-training
-
 # Databricks Training Repository
 
 Welcome to my comprehensive Databricks and data engineering learning journey! This repository serves as a structured archive of my daily progress, hands-on projects, and practical implementations throughout my training program.
