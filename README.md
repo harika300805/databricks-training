@@ -1,5 +1,15 @@
 # databricks-training
 
+# Databricks Training Repository
+
+Welcome to my comprehensive Databricks and data engineering learning journey! This repository serves as a structured archive of my daily progress, hands-on projects, and practical implementations throughout my training program.
+
+## 📋 Repository Overview
+
+This repository documents my learning progression through organized weekly and daily modules. Each session contains practical exercises, SQL queries, and real-world implementations that build a strong foundation in Databricks, Apache Spark, and advanced data engineering concepts.
+
+### 🏗️ Repository Structure
+
 
 Each day's folder contains:
 - **`outputs/`** - Results, visualizations, and execution logs
