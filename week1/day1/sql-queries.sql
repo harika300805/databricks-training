@@ -27,3 +27,34 @@ select * from Employee where length(replace(name,' ', ''))=9;
 
 -- query 10
 select * from Employee where name like '_o%';
+
+-- query 11
+select * from Employee where Year(hire_date)=2020;
+
+-- query 12
+select * from Employee where MONTH(hire_date)=1;
+
+-- query 13
+select * from Employee where hire_date < '2019-01-01';
+
+-- query 14
+select * from Employee where hire_date >= '2021-03-01';
+
+-- query 15
+select * from Employee where hire_date >= curdate()-interval 2 year;
+
+-- query 16
+select sum(salary) from Employee;
+
+-- query 17
+select avg(salary) from Employee;
+
+-- query 18
+select min(salary) from Employee;
+
+-- query 19
+select department_id,count(*) from Employee group by department_id;
+
+-- query 20
+select department_id,avg(salary) from Employee group by department_id;
+
