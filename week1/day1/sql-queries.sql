@@ -58,3 +58,17 @@ select department_id,count(*) from Employee group by department_id;
 -- query 20
 select department_id,avg(salary) from Employee group by department_id;
 
+-- query 21
+select department_id, sum(salary) from Employee where department_id is not null group by department_id;
+
+-- query 22
+select department_id, avg(salary) from Employee where department_id is not null group by department_id;
+
+-- query 23
+select year(hire_date), count(*) from Employee where department_id is not null group by year(hire_date);
+
+-- query 24
+select department_id, max(salary) from Employee where department_id is not null group by department_id;
+
+-- query 25
+select department_id, avg(salary) from Employee where department_id is not null group by department_id order by avg(salary) desc limit 1;
